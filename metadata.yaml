@@ -1,0 +1,28 @@
+_repo: Essays-in-American-history_71922
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferguson, Henry
+    birthdate: 1848
+    deathdate: 1917
+    gutenberg_agent_id: '56427'
+    url: http://www.gutenberg.org/2009/agents/56427
+description: ''
+gutenberg_issued: '2023-10-20'
+identifiers:
+  gutenberg: '71922'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924030921518/page/n7/mode/2up
+pgterms:marc905: 20221227060841ferguson
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Carla Foust and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bJames Pott and Company, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Essays in American history
+url: http://www.gutenberg.org/ebooks/71922
