@@ -1,5 +1,8 @@
 _repo: Essays-in-American-history_71922
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71922-h/images/cover.jpg
 creator:
   author:
     agent_name: Ferguson, Henry
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '56427'
     url: http://www.gutenberg.org/2009/agents/56427
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71922#Essays-in-American-history
 gutenberg_issued: '2023-10-20'
 identifiers:
   gutenberg: '71922'
